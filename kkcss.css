@@ -1,0 +1,482 @@
+body {
+    background: #87BCDE;
+ }
+
+ 
+#encabezado{
+    background-color: #D5B07C;
+    top: 15px;
+    left: 300px;
+    height: 200px;
+    width: 1000px;
+    position: absolute;
+    line-height: 25px;
+    font-size: 30px;
+    border-radius: 20px;
+
+    #botonUno{
+        background-color: khaki;
+        top: 150px;
+        left: 155px;
+        height: 40px;
+        width: 150px;
+        position: absolute;
+        text-align: center;
+        line-height: 5px;
+        font-size: 18px;
+        border-radius: 20px;
+        
+    }
+    
+    #botonDos{
+        background-color: khaki;
+        top: 150px;
+        left: 335px;
+        height: 40px;
+        width: 150px;
+        position: absolute;
+        text-align: center;
+        line-height: 5px;
+        font-size: 18px;
+        border-radius: 20px;
+    }
+    
+    #botonTres{
+        background-color: khaki;
+        top: 150px;
+        left: 515px;
+        height: 40px;
+        width: 150px;
+        position: absolute;
+        text-align: center;
+        line-height: 5px;
+        font-size: 16px;
+        border-radius: 20px;
+    }
+    
+    #botonCuatro{
+        background-color: khaki;
+        top: 150px;
+        left: 695px;
+        height: 40px;
+        width: 150px;
+        position: absolute;
+        text-align: center;
+        line-height: 5px;
+        font-size: 16px;
+        border-radius: 20px;
+    }
+    
+}
+
+#cuerpoUno{
+    background-color: #D5B07C;
+    top: 230px;
+    left: 60px;
+    height: 2200px;
+    width: 1500px;
+    position: absolute;
+    text-align: center;
+    line-height: 5px;
+    font-size: 18px;
+    border-radius: 20px;
+
+    #informacion{
+        background-color: khaki;
+        top: 20px;
+        left: 50px;
+        height: 40px;
+        width: 1400px;
+        position: absolute;
+        text-align: center;
+        line-height: 5px;
+        font-size: 18px;
+        border-radius: 20px;
+    }
+
+    #contenidoUno{
+        top: 70px;
+        left: 270px;
+        position: absolute;
+        font-size: 18px;
+    }
+    
+}
+
+#inicioUno{
+    background-color: khaki;
+    top: 2080px;
+    left: 450px;
+    height: 40px;
+    width: 100px;
+    position: absolute;
+    text-align: center;
+    line-height: 5px;
+    font-size: 16px;
+    border-radius: 20px;
+}
+
+#cuerpoDos{
+    background-color: #D5B07C;
+    top: 2450px;
+    left: 60px;
+    height: 2200px;
+    width: 1500px;
+    position: absolute;
+    text-align: left;
+    line-height: 5px;
+    font-size: 18px;
+    border-radius: 20px;
+
+    #menuComidaDos{
+        background-color: khaki;
+        top: 20px;
+        left: 50px;
+        height: 40px;
+        width: 1400px;
+        position: absolute;
+        text-align: center;
+        line-height: 5px;
+        font-size: 18px;
+        border-radius: 20px;
+    }
+
+    #imagenesDos{
+        top: 70px;
+        left: 70px;
+        position: absolute;
+        border-radius: 20px;
+    }
+
+    #contenidoDos{
+        top: 70px;
+        left: 40px;
+        position: absolute;
+
+    #textoUno{
+        top: 30px;
+        left: 450px;
+        height: 500px;
+        width: 800px;
+        position: absolute;
+        text-align: left;
+        line-height: 5px;
+        font-size: 18px;
+    }
+
+    #textoDos{
+        top: 420px;
+        left: 450px;
+        height: 500px;
+        width: 800px;
+        position: absolute;
+        text-align: left;
+        line-height: 5px;
+        font-size: 18px;
+    }
+
+    #textoTres{
+        top: 920px;
+        left: 450px;
+        height: 500px;
+        width: 800px;
+        position: absolute;
+        text-align: left;
+        line-height: 5px;
+        font-size: 18px;
+    }
+
+    #textoCuatro{
+        top: 1400px;
+        left: 450px;
+        height: 500px;
+        width: 800px;
+        position: absolute;
+        text-align: left;
+        line-height: 5px;
+        font-size: 18px;
+    }
+
+    #textoCinco{
+        top: 1780px;
+        left: 450px;
+        height: 500px;
+        width: 800px;
+        position: absolute;
+        text-align: left;
+        line-height: 5px;
+        font-size: 18px;
+    }
+
+    #textoSeis{
+        background-color: khaki;
+        top: 2020px;
+        left: 615px;
+        height: 40px;
+        width: 200px;
+        position: absolute;
+        text-align: center;
+        line-height: 5px;
+        font-size: 16px;
+        border-radius: 20px;
+        position: absolute;
+    }
+
+    #inicioDos{
+        background-color: khaki;
+        top: 2080px;
+        left: 660px;
+        height: 40px;
+        width: 100px;
+        position: absolute;
+        text-align: center;
+        line-height: 5px;
+        font-size: 16px;
+        border-radius: 20px;
+    }
+    }
+
+}
+
+
+#cuerpoTres{
+    background-color: #D5B07C;
+    top: 4670px;
+    left: 60px;
+    height: 2200px;
+    width: 1500px;
+    position: absolute;
+    text-align: left;
+    line-height: 5px;
+    font-size: 18px;
+    border-radius: 20px;
+
+    #galeriaDos{
+        background-color: khaki;
+        top: 20px;
+        left: 50px;
+        height: 40px;
+        width: 1400px;
+        position: absolute;
+        text-align: center;
+        line-height: 5px;
+        font-size: 18px;
+        border-radius: 20px;
+    }
+
+    #imagenesTres{
+        top: 70px;
+        left: 70px;
+        position: absolute;
+    }
+
+    #contenidoCuatro{
+        top: 70px;
+        left: 40px;
+        position: absolute;
+
+    #textoOcho{
+        top: 30px;
+        left: 450px;
+        height: 500px;
+        width: 800px;
+        position: absolute;
+        text-align: left;
+        line-height: 5px;
+        font-size: 18px;
+    }
+
+    #textoNueve{
+        top: 420px;
+        left: 450px;
+        height: 500px;
+        width: 800px;
+        position: absolute;
+        text-align: left;
+        line-height: 5px;
+        font-size: 18px;
+    }
+
+    #textoDiez{
+        top: 800px;
+        left: 450px;
+        height: 500px;
+        width: 800px;
+        position: absolute;
+        text-align: left;
+        line-height: 5px;
+        font-size: 18px;
+    }
+
+    #textoOnce{
+        top: 1200px;
+        left: 450px;
+        height: 500px;
+        width: 800px;
+        position: absolute;
+        text-align: left;
+        line-height: 5px;
+        font-size: 18px;
+    }
+
+    #textoDoce{
+        top: 1580px;
+        left: 450px;
+        height: 500px;
+        width: 800px;
+        position: absolute;
+        text-align: left;
+        line-height: 5px;
+        font-size: 18px;
+    }
+
+    #inicioTres{
+        background-color: khaki;
+        top: 2080px;
+        left: 660px;
+        height: 40px;
+        width: 100px;
+        position: absolute;
+        text-align: center;
+        line-height: 5px;
+        font-size: 16px;
+        border-radius: 20px;
+    }
+
+
+    }
+}
+
+
+
+#cuerpoCuatro{
+    background-color: #D5B07C;
+    top: 6890px;
+    left: 60px;
+    height: 2200px;
+    width: 1500px;
+    position: absolute;
+    text-align: left;
+    line-height: 5px;
+    font-size: 18px;
+    border-radius: 20px;
+
+    #promocionesDos{
+        background-color: khaki;
+        top: 20px;
+        left: 50px;
+        height: 40px;
+        width: 1400px;
+        position: absolute;
+        text-align: center;
+        line-height: 5px;
+        font-size: 18px;
+        border-radius: 20px;
+    }
+    #imagenesCuatro{
+        top: 70px;
+        left: 70px;
+        position: absolute;
+    }
+
+    #contenidoCinco{
+        top: 70px;
+        left: 40px;
+        position: absolute;
+
+    #textoTrece{
+        top: 30px;
+        left: 450px;
+        height: 500px;
+        width: 800px;
+        position: absolute;
+        text-align: left;
+        line-height: 5px;
+        font-size: 18px;
+    }
+
+    #textoCatorce{
+        top: 420px;
+        left: 450px;
+        height: 500px;
+        width: 800px;
+        position: absolute;
+        text-align: left;
+        line-height: 5px;
+        font-size: 18px;
+    }
+
+    #textoQuince{
+        top: 820px;
+        left: 450px;
+        height: 500px;
+        width: 800px;
+        position: absolute;
+        text-align: left;
+        line-height: 5px;
+        font-size: 18px;
+    }
+
+    #textoDiezSeis{
+        top: 1200px;
+        left: 450px;
+        height: 500px;
+        width: 800px;
+        position: absolute;
+        text-align: left;
+        line-height: 5px;
+        font-size: 18px;
+    }
+
+    #textoDiezSiete{
+        top: 1550px;
+        left: 450px;
+        height: 500px;
+        width: 800px;
+        position: absolute;
+        text-align: left;
+        line-height: 5px;
+        font-size: 18px;
+    }
+
+    #textoDiezOcho{
+        background-color: khaki;
+        top: 2020px;
+        left: 615px;
+        height: 40px;
+        width: 200px;
+        position: absolute;
+        text-align: center;
+        line-height: 5px;
+        font-size: 16px;
+        border-radius: 20px;
+        position: absolute;
+    }
+
+    #inicioCuatro{
+        background-color: khaki;
+        top: 2080px;
+        left: 660px;
+        height: 40px;
+        width: 100px;
+        position: absolute;
+        text-align: center;
+        line-height: 5px;
+        font-size: 16px;
+        border-radius: 20px;
+    }
+}
+}
+
+    #piePagina{
+        background-color: #D5B07C;
+        top: 9100px;
+        left: 300px;
+        height: 50px;
+        width: 1000px;
+        position: absolute;
+        text-align: center;
+        line-height: 25px;
+        font-size: 15px;
+        border-radius: 20px;
+    }

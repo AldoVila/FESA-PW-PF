@@ -1,0 +1,239 @@
+body {
+    background: #87BCDE;
+ }
+ #encabezado{
+    background-color: #D5B07C;
+    top: 15px;
+    left: 300px;
+    height: 200px;
+    width: 1000px;
+    position: absolute;
+    line-height: 25px;
+    font-size: 30px;
+    border-radius: 20px;
+
+    #botonUno{
+        background-color: khaki;
+        top: 150px;
+        left: 155px;
+        height: 40px;
+        width: 150px;
+        position: absolute;
+        text-align: center;
+        line-height: 5px;
+        font-size: 18px;
+        border-radius: 20px;
+        
+    }
+    
+    #botonDos{
+        background-color: khaki;
+        top: 150px;
+        left: 335px;
+        height: 40px;
+        width: 150px;
+        position: absolute;
+        text-align: center;
+        line-height: 5px;
+        font-size: 18px;
+        border-radius: 20px;
+    }
+    
+    #botonTres{
+        background-color: khaki;
+        top: 150px;
+        left: 515px;
+        height: 40px;
+        width: 150px;
+        position: absolute;
+        text-align: center;
+        line-height: 5px;
+        font-size: 16px;
+        border-radius: 20px;
+    }
+    
+    #botonCuatro{
+        background-color: khaki;
+        top: 150px;
+        left: 695px;
+        height: 40px;
+        width: 150px;
+        position: absolute;
+        text-align: center;
+        line-height: 5px;
+        font-size: 16px;
+        border-radius: 20px;
+    }
+    
+}
+
+#cuerpoUno{
+    background-color: #D5B07C;
+    top: 230px;
+    left: 60px;
+    height: 1000px;
+    width: 1500px;
+    position: absolute;
+    text-align: center;
+    line-height: 5px;
+    font-size: 18px;
+    border-radius: 20px;
+
+    #tablaMenu{
+        background-color: khaki;
+        top: 20px;
+        left: 50px;
+        height: 40px;
+        width: 1400px;
+        position: absolute;
+        text-align: center;
+        line-height: 5px;
+        font-size: 18px;
+        border-radius: 20px;
+    }
+
+    #contenidoUno{
+        top: 70px;
+        left: 270px;
+        height: 2000px;
+        position: absolute;
+        font-size: 18px;
+    }
+
+    #imagen{
+        top: 10px;
+        left: 270px;
+        position: absolute;
+    }
+
+}
+
+#tablaUno{
+    top: 420px;
+    left: 20px;
+    height: 500px;
+    width: 800px;
+    position: absolute;
+    text-align: center;
+    line-height: 30px;
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+#tablaDos{
+    top: 420px;
+    left: 340px;
+    height: 500px;
+    width: 800px;
+    position: absolute;
+    text-align: center;
+    line-height: 30px;
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+#tablaTres{
+    top: 420px;
+    left: 650px;
+    height: 500px;
+    width: 800px;
+    position: absolute;
+    text-align: center;
+    line-height: 30px;
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+#inicioUno{
+    background-color: khaki;
+    top: 880px;
+    left: 425px;
+    height: 40px;
+    width: 100px;
+    position: absolute;
+    text-align: center;
+    line-height: 5px;
+    font-size: 16px;
+    border-radius: 20px;
+}
+
+#cuerpoDos{
+    background-color: #D5B07C;
+    top: 1250px;
+    left: 60px;
+    height: 1200px;
+    width: 1500px;
+    position: absolute;
+    text-align: left;
+    line-height: 5px;
+    font-size: 18px;
+    border-radius: 20px;
+
+    #promociones{
+        background-color: khaki;
+        top: 20px;
+        left: 50px;
+        height: 40px;
+        width: 1400px;
+        position: absolute;
+        text-align: center;
+        line-height: 5px;
+        font-size: 18px;
+        border-radius: 20px;
+    }
+
+    #imagenesDos{
+        top: 70px;
+        left: 70px;
+        position: absolute;
+        border-radius: 20px;
+    }
+
+    #contenidoDos{
+        top: 70px;
+        left: 40px;
+        position: absolute;
+        text-align: center;
+        line-height: 30px;
+        font-size: 18px;
+
+    #textoUno{
+        background-color: khaki;
+        top: 30px;
+        left: 450px;
+        height: 950px;
+        width: 350px;
+        position: absolute;
+        text-align: left;
+        line-height: 18px;
+        font-size: 20px;
+        border-radius: 20px;
+    }
+}
+
+    #inicioDos{
+        background-color: khaki;
+        top: 1080px;
+        left: 660px;
+        height: 40px;
+        width: 100px;
+        position: absolute;
+        text-align: center;
+        line-height: 5px;
+        font-size: 16px;
+        border-radius: 20px;
+    }
+ }
+
+#piePagina{
+    background-color: #D5B07C;
+    top: 2470px;
+    left: 300px;
+    height: 50px;
+    width: 1000px;
+    position: absolute;
+    text-align: center;
+    line-height: 25px;
+    font-size: 15px;
+    border-radius: 20px;
+}
