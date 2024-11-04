@@ -1,7 +1,7 @@
 body {
     background: #87BCDE;
  }
- #encabezado{
+ #encabezado{ /*parte del cuadro superior*/
     background-color: #D5B07C;
     top: 15px;
     left: 300px;
@@ -67,7 +67,7 @@ body {
     
 }
 
-#cuerpoUno{
+#cuerpoUno{ /*primer cuadro de menu*/
     background-color: #D5B07C;
     top: 230px;
     left: 60px;
@@ -157,7 +157,7 @@ body {
     border-radius: 20px;
 }
 
-#cuerpoDos{
+#cuerpoDos{ /*cuadro de promociones*/
     background-color: #D5B07C;
     top: 1250px;
     left: 60px;
@@ -225,7 +225,7 @@ body {
     }
  }
 
-#piePagina{
+#piePagina{ /*pie de pagina*/
     background-color: #D5B07C;
     top: 2470px;
     left: 300px;
