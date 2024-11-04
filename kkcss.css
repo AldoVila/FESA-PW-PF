@@ -2,7 +2,7 @@ body {
     background: #87BCDE;
  }
 
- 
+ /*parte para encabezado*/
 #encabezado{
     background-color: #D5B07C;
     top: 15px;
@@ -67,9 +67,9 @@ body {
         border-radius: 20px;
     }
     
-}
+} /*termina encabezado*/
 
-#cuerpoUno{
+#cuerpoUno{ /*para el primer cuadro*/
     background-color: #D5B07C;
     top: 230px;
     left: 60px;
@@ -116,7 +116,7 @@ body {
     border-radius: 20px;
 }
 
-#cuerpoDos{
+#cuerpoDos{ /*para el segundo cuadro*/
     background-color: #D5B07C;
     top: 2450px;
     left: 60px;
@@ -239,7 +239,7 @@ body {
 }
 
 
-#cuerpoTres{
+#cuerpoTres{ /*para el tercer cuadro*/
     background-color: #D5B07C;
     top: 4670px;
     left: 60px;
@@ -349,7 +349,7 @@ body {
 
 
 
-#cuerpoCuatro{
+#cuerpoCuatro{ /*ultimo cuadro*/
     background-color: #D5B07C;
     top: 6890px;
     left: 60px;
@@ -468,6 +468,7 @@ body {
 }
 }
 
+/*pie de pagina*/
     #piePagina{
         background-color: #D5B07C;
         top: 9100px;
